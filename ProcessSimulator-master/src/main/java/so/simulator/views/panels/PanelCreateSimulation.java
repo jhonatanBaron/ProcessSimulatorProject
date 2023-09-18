@@ -1,7 +1,6 @@
 package so.simulator.views.panels;
 
 import so.simulator.controllers.Commands;
-import so.simulator.views.Constants;
 import so.simulator.views.components.MyJButton;
 
 import javax.swing.*;
